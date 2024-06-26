@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <p>main window</p>
+  <p>Main user</p>
 </template>
 
 <style scoped></style>
